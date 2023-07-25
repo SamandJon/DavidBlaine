@@ -11,8 +11,11 @@ body{
     color: white; text-align: center;
   }
   div{
-    width: 30%; margin-left: 35%; margin-top: 7%;
+    width: 30%; margin-left: 35% ; margin-top: 7%;
   }
   img{
     border:10px solid white
+  }
+  h2{
+     color: white; text-align: center;
   }
